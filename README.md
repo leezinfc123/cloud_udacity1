@@ -40,4 +40,8 @@ Prevent requests without valid authentication headers.
 Add your own domain name and have it point to the running services (try adding a subdomain name to point to the processing server)
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
 
-http://udacity-c2-image-filter-dev2.us-east-1.elasticbeanstalk.com/
+http://udacity-project-env1.eba-2rdwtqzk.us-east-1.elasticbeanstalk.com/
+
+### Custom API test
+
+> http://udacity-project-env1.eba-2rdwtqzk.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://kenh14cdn.com/QuickNewsK14/Common/2015/03/img_201503142307166249.jpg
